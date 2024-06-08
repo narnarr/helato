@@ -1,0 +1,5 @@
+spring:
+  application.name: helato
+
+config:
+  machine-id: 1
